@@ -95,7 +95,7 @@ footer:
       icon: "fas fa-fw fa-envelope"
       url: "mailto:viktor.sanca@epfl.ch"
     - label: "LinkedIn"
-      icon: "fa fa-fw fa-linkedin"
+      icon: "fas fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/viktor-sanca"
 
 defaults:
