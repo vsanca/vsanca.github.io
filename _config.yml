@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Viktor Sanca"
   avatar : "/assets/images/sanca-photo.jpeg"
-  bio    : "PhD candidate at EPFL.\
+  bio    : "PhD candidate at EPFL.\ \
     Interested in systems, databases, and ML. Especially how to make them efficient and fast on modern hardware."
   location: "Lausanne, Switzerland :switzerland:"
   links:
