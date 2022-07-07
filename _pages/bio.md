@@ -5,5 +5,4 @@ author_profile: true
 classes: wide
 ---
 
-
 Some content
