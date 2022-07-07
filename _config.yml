@@ -86,7 +86,7 @@ author:
       icon: "ai ai-orcid"
       url: "http://orcid.org/0000-0002-4799-8467"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/viktor-sanca"
 
 footer:
@@ -95,7 +95,7 @@ footer:
       icon: "fas fa-fw fa-envelope"
       url: "mailto:viktor.sanca@epfl.ch"
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/viktor-sanca"
 
 defaults:
