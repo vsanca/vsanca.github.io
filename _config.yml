@@ -71,7 +71,7 @@ author:
       icon: "fas fa-fw fa-envelope"
       url: "mailto:viktor.sanca@epfl.ch"
     - label: "EPFL page"
-      icon: "fab fa-fw fa-university"
+      icon: "fa fa-fw fa-university"
       url: "https://people.epfl.ch/viktor.sanca/?lang=en"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -86,7 +86,7 @@ author:
       icon: "ai ai-orcid"
       url: "http://orcid.org/0000-0002-4799-8467"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fa fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/in/viktor-sanca"
 
 footer:
