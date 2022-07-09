@@ -14,6 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Viktor Sanca
+tagline: Personal Website
+
 url: https://www.viktorsanca.com
 
 repository: vsanca/vsanca.github.io
@@ -126,7 +128,8 @@ analytics:
   google:
     tracking_id: "UA-233552951-1"
     anonymize_ip: false # default
-    google_site_verification: SJyLOqfKiZVXghmDdl9vNFWZByqAZPjtP2m0z0AzkMk # your google-site-verification ID (Google Search Console)
+    
+google_site_verification: SJyLOqfKiZVXghmDdl9vNFWZByqAZPjtP2m0z0AzkMk # your google-site-verification ID (Google Search Console)
 
 category_archive:
   type: liquid
