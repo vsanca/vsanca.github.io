@@ -4,7 +4,7 @@ permalink: /bio/
 ---
 
 You can download my most recent [CV by clicking here](/assets/files/Viktor_Sanca_cv.pdf).
-*Last updated on July 10, 2022*
+*Last updated on July 10, 2022* {: style="text-align: justify"}
 
 
 ## Awards
@@ -19,7 +19,7 @@ For the class that started in 2013/2014 – among all the sections of the Facult
 #### Exceptional award for overall undergraduate studies, *Awarded by the University of Novi Sad (obtained perfect GPA of 10.00/10.00)*
 
 #### Momčilo Momo Novković Charter, *Awarded annually to a student per study level of the Faculty of Technical Sciences*
-“For the enthusiasm and exceptional results in curricular and extracurricular activities during studies, for dedication to pedagogical work and contribution in promotion of Faculty of Technical Sciences on the national and international level” – bachelor student category
+“For the enthusiasm and exceptional results in curricular and extracurricular activities during studies, for dedication to pedagogical work and contribution in promotion of Faculty of Technical Sciences on the national and international level” – bachelor student category {: style="text-align: justify"}
 
 ### **2014, 2015, 2016**
 #### Exceptional award for accomplishments in studies, *Awarded by the University of Novi Sad (maintaining a GPA of 10.00/10.00)*
