@@ -8,7 +8,7 @@ My research is in the area of data management systems, focusing on using approxi
 ![Data and Hardware Trends](/assets/images/data_hw_trends.jpg)
 {: display: block; margin-left: auto; margin-right: auto;}
 
-**Data growth, normalized to PCI-e and memory bandwidth growth rate \[1\] - still no free lunch for interactive and fast analytics**
+**Data growth, PCI-e and memory bandwidth growth rate \[1\] - still no free lunch for interactive and fast analytics**
 {: text-align: center; .font-size: 8pt;}
 
 My goal and vision is to enable truly interactive analytics with zero assumptions about the workload, by co-designing the approximation algorithms to be efficient and utilize fully the underlying hardware, exploring the algorithmic bottlenecks, and developing systems and algorithms that maximize work reuse to further reduce the time-to-insight on high-bandwidth, low-latency analytical systems. Finally, the goal is to develop approximate query processing systems that outperform the best and highly-optimized modern analytical engines. To unlock this potential of modern analytics, I am working and developing my work on approximate analytics on top of a high-performance heterogeneous engine [Proteus](www.proteusdb.com). By harmonizing modern analytics with approximate algorithms, we can enable cost and energy efficient insights, by spending less (computational) time in the fastest layers of increasingly powerful computational hardware. 
