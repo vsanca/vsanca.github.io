@@ -5,7 +5,7 @@ author_profile: true
 classes: wide
 ---
 
-I am a Doctoral Candidate at [Data-Intensive Applications and Systems (DIAS) lab](dias.epfl.ch) at [Doctoral School for Computer and Communication Sciences at EPFL](https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/), supervised by [professor Anastasia Ailamaki](https://people.epfl.ch/anastasia.ailamaki?lang=en).
+I am a Doctoral Candidate in the [Data-Intensive Applications and Systems (DIAS) lab](dias.epfl.ch) at [Doctoral School for Computer and Communication Sciences at EPFL](https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/), advised by [Professor Anastasia Ailamaki](https://people.epfl.ch/anastasia.ailamaki?lang=en).
 {: .text-justify}
 
 My research is in the area of data management systems, focusing on using approximate query processing in conjunction with high-performance analytical systems on modern hardware to enable workload-agnostic, timely, interactive, energy- and cost-efficient insights offered by the growing amounts of data.
