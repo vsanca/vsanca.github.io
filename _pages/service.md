@@ -7,9 +7,9 @@ Besides teaching and research, investing time in projects and activities that fu
 
 ## Master thesis supervision
 ### 2023
-Youssef Saied: *Distance-based anomaly detection* - done at Oracle Zurich.
-
 Sebastien Ollquist: *Sequential Pattern Mining in Very Large Data Streams* - done at Swisscom.
+
+Youssef Saied: *Distance-based anomaly detection* - done at Oracle Zurich.
 
 ## EPFL IC Ph.D. student organization (EPIC) committee member
 [EPIC EPFL](https://epic.epfl.ch)
