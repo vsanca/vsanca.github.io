@@ -6,7 +6,7 @@ permalink: /service/
 Besides teaching and research, investing time in projects and activities that further the science and community are rewarding. 
 
 ## Master thesis supervision
-### 2023
+### 2022-2023
 Sebastien Ollquist: *Sequential Pattern Mining in Very Large Data Streams* - done at Swisscom.
 
 Youssef Saied: *Distance-based anomaly detection* - done at Oracle Zurich.
