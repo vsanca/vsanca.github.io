@@ -15,7 +15,7 @@ My research is in data management systems, machine learning, and applications. M
 
 4. Viktor Sanca, Periklis Chrysogelos, and Anastasia Ailamaki. 2023. *LAQy: Efficient and Reusable Query Approximations via Lazy Sampling.* In Proc. ACM Manag. Data 1(2): 174:1-174:26 (2023). [Link](https://doi.org/10.1145/3589319) - Presented at SIGMOD'23
 
-5. Viktor Sanca and Anastasia Ailamaki. 2023. *Analytical Engines With Context-Rich Processing: Towards Efficient Next-Generation Analytics.* In 2023 IEEE 39th International Conference on Data Engineering (ICDE). [Preprint]([https://doi.org/10.1145/3533737.3535095](https://arxiv.org/abs/2212.07517)) - Special track vision paper, presented at ICDE'23
+5. Viktor Sanca and Anastasia Ailamaki. 2023. *Analytical Engines With Context-Rich Processing: Towards Efficient Next-Generation Analytics.* In 2023 IEEE 39th International Conference on Data Engineering (ICDE). [Preprint Link](https://arxiv.org/abs/2212.07517) - Special track vision paper, presented at ICDE'23
 
 6. Viktor Sanca and Anastasia Ailamaki. 2022. *Sampling-Based AQP in Modern Analytical Engines.* In Data Management on New Hardware. Association for Computing Machinery, New York, NY, USA, Article 4, 1–8. [Link](https://doi.org/10.1145/3533737.3535095) - Presented at DaMoN@SIGMOD'22
 
