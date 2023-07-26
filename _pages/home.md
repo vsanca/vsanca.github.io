@@ -21,5 +21,5 @@ Outside the office, I enjoy traveling, hiking, singing, cooking, and improving m
 {: .text-justify}
 
 You can download my most recent [CV by clicking here](/assets/files/Viktor_Sanca_cv.pdf).
-*Last updated on June 10, 2023*
+*Last updated on July 10, 2023*
 {: .text-justify}
