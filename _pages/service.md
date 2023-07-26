@@ -6,10 +6,14 @@ permalink: /service/
 Besides teaching and research, investing time in projects and activities that further the science and community are rewarding. 
 
 ## Master thesis supervision
-### 2022-2023
+### 2023
 Sebastien Ollquist: *Sequential Pattern Mining in Very Large Data Streams* - done at Swisscom.
 
+### 2022-2023
 Youssef Saied: *Distance-based anomaly detection* - done at Oracle Zurich.
+
+### 2019
+Ciprian Baetu: *In-Memory Graph Query Runtime inside Relational Databases* - done at Oracle Labs Zurich.
 
 ## EPFL IC Ph.D. student organization (EPIC) committee member
 [EPIC EPFL](https://epic.epfl.ch)
@@ -21,10 +25,6 @@ Faculty and industry talk coordinator bringing together the faculty, alumni, ind
 ### 2019-2021
 Research and development on top of the in-house high-performance heterogeneous analytical
 engine [Proteus](https://www.proteusdb.com) to enable storage tiering, approximate query processing, and high-performance integration with project components of other participating partners, especially with the RAW labs and TU Eindhoven research and industrial partners. Presenting and discussing the progress, design, and research ideas with the project partners. Preparing, reviewing, and participating in project reporting and presentations, leading to successful project evaluation.
-
-## Master thesis supervision
-### 2019
-Ciprian Baetu: *In-Memory Graph Query Runtime inside Relational Databases* - done at Oracle Labs Zurich.
 
 ## *EU ERC 2017 PoC* ViDaR: R-enabled large-scale data analytics in ViDa
 ### 2017-2018
