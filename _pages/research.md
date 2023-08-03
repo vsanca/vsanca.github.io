@@ -11,7 +11,7 @@ My research is in data management systems, machine learning, and applications. M
 
 2. Viktor Sanca and Anastasia Ailamaki. 2023. *E-Scan: Consuming Contextual Data with Model Plugins*. To appear at [CDMS@VLDB'23](https://cdmsworkshop.github.io/2023/).
 
-3. Stefan Igescu, Viktor Sanca, Eleni Zapridou, and Anastasia Ailamaki. 2023. *Efficient K-means Clustering using Speculation.* To appear at [AIDB@VLDB'23](https://sites.google.com/view/aidb2023/).
+3. Stefan Igescu, Viktor Sanca, Eleni Zapridou, and Anastasia Ailamaki. 2023. *Improving K-means Clustering Using Speculation.* To appear at [AIDB@VLDB'23](https://sites.google.com/view/aidb2023/).
 
 4. Hamish Nicholson, Andreea Nica, Aunn Raza, Viktor Sanca, and Anastasia Ailamaki. 2023. *Chaosity: Understanding Contemporary NUMA-architectures.* To appear at the [TPC-TC@VLDB'23](https://www.tpc.org/tpctc/tpctc2023/).
 
