@@ -7,17 +7,17 @@ My research is in data management systems, machine learning, and applications. M
 
 ## Peer-Reviewed Publications 
 
-1. Viktor Sanca and Anastasia Ailamaki. 2023. *Post-Moore’s Law Fusion: High-Bandwidth Memory, Accelerators, and Native Half-Precision Processing for CPU-Local Analytics.* To appear at ADMS@VLDB'23.
+1. Viktor Sanca and Anastasia Ailamaki. 2023. *Post-Moore’s Law Fusion: High-Bandwidth Memory, Accelerators, and Native Half-Precision Processing for CPU-Local Analytics.* To appear at [ADMS@VLDB'23](https://www.adms-conf.org/).
 
-2. Viktor Sanca and Anastasia Ailamaki. 2023. *E-Scan: Consuming Contextual Data with Model Plugins*. To appear at CDMS@VLDB'23.
+2. Viktor Sanca and Anastasia Ailamaki. 2023. *E-Scan: Consuming Contextual Data with Model Plugins*. To appear at [CDMS@VLDB'23](https://cdmsworkshop.github.io/2023/).
 
-3. Stefan Igescu, Viktor Sanca, Eleni Zapridou, and Anastasia Ailamaki. 2023. *Efficient K-means Clustering using Speculation.* To appear at AIDB@VLDB'23.
+3. Stefan Igescu, Viktor Sanca, Eleni Zapridou, and Anastasia Ailamaki. 2023. *Efficient K-means Clustering using Speculation.* To appear at [AIDB@VLDB'23](https://sites.google.com/view/aidb2023/).
 
-4. Hamish Nicholson, Andreea Nica, Aunn Raza, Viktor Sanca, and Anastasia Ailamaki. 2023. *Chaosity: Understanding Contemporary NUMA-architectures.* To appear at the TPC-TC@VLDB'23.
+4. Hamish Nicholson, Andreea Nica, Aunn Raza, Viktor Sanca, and Anastasia Ailamaki. 2023. *Chaosity: Understanding Contemporary NUMA-architectures.* To appear at the [TPC-TC@VLDB'23](https://www.tpc.org/tpctc/tpctc2023/).
 
 5. Viktor Sanca, Periklis Chrysogelos, and Anastasia Ailamaki. 2023. *LAQy: Efficient and Reusable Query Approximations via Lazy Sampling.* In Proc. ACM Manag. Data 1(2): 174:1-174:26 (2023). [Link](https://doi.org/10.1145/3589319) - Presented at SIGMOD'23
 
-6. Viktor Sanca and Anastasia Ailamaki. 2023. *Analytical Engines With Context-Rich Processing: Towards Efficient Next-Generation Analytics.* In 2023 IEEE 39th International Conference on Data Engineering (ICDE). [Preprint Link](https://arxiv.org/abs/2212.07517) - Special track vision paper, presented at ICDE'23
+6. Viktor Sanca and Anastasia Ailamaki. 2023. *Analytical Engines With Context-Rich Processing: Towards Efficient Next-Generation Analytics.* In 2023 IEEE 39th International Conference on Data Engineering (ICDE). [Link](https://ieeexplore.ieee.org/abstract/document/10184882) - Special track vision paper, presented at ICDE'23
 
 7. Viktor Sanca and Anastasia Ailamaki. 2022. *Sampling-Based AQP in Modern Analytical Engines.* In Data Management on New Hardware. Association for Computing Machinery, New York, NY, USA, Article 4, 1–8. [Link](https://doi.org/10.1145/3533737.3535095) - Presented at DaMoN@SIGMOD'22
 
