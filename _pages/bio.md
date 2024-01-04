@@ -4,10 +4,15 @@ permalink: /bio/
 ---
 
 You can download my most recent [CV by clicking here](/assets/files/Viktor_Sanca_cv.pdf).
-*Last updated on July 10, 2023* 
+*Last updated in December 2023* 
 {: .text-justify}
 
 # Awards
+
+## **2023** 
+### Distinguished service award
+*Awarded by EDIC Doctoral School, EPFL*
+{: .text-justify}
 
 ## **2022** 
 ### Teaching assistant award, Distinguished service award
