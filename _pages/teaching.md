@@ -5,6 +5,10 @@ permalink: /teaching/
 
 I am a teaching assistant at EPFL. This is a fulfilling duty and responsibility, as the end goal is always to transmit the enthusiasm of science while keeping academic rigor.
 
+## 2023-2024
+### The first edition of CS-300 Data-Intensive Systems
+I am happy to be involved in the role of consulting and helping shape and design a new undergraduate course that will have a strong focus on data management and systems, where more credits being allocated to this course will allow more time to focus on the links between operating systems and data management.
+
 ## 2023
 ### The last edition of CS-322 Introduction to Database Systems,
 I am the head TA for the course, and we had 270 students and led a team of 6 TAs. 
