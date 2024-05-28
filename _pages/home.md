@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome"
+title: "Personal Page"
 author_profile: true
 classes: wide
 ---
