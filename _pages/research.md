@@ -19,7 +19,7 @@ Committee: Prof. Anne-Marie Kermarrec, Prof. Carsten Binnig, Dr. Justin Levandos
 
 2. Viktor Sanca and Anastasia Ailamaki. 2024. *Efficient and Reusable Lazy Sampling*, SIGMOD Record, [Link](https://dl.acm.org/doi/abs/10.1145/3665252.3665261)
 
-3. Viktor Sanca, Manos Chatzakis, Anastasia Ailamaki. 2024. *Optimizing Context-Enhanced Relational Joins*, ICDE, [Link](assets/files/Optimizing%20Context-Enhanced%20Relational%20Joins.pdf)
+3. Viktor Sanca, Manos Chatzakis, Anastasia Ailamaki. 2024. *Optimizing Context-Enhanced Relational Joins*, ICDE, [Link](/assets/files/Optimizing%20Context-Enhanced%20Relational%20Joins.pdf)
 
 4. Viktor Sanca and Anastasia Ailamaki. 2024. *Efficient Model-Relational Data Management: Challenges and Opportunities*. TKDE Special Issue on Best and Innovation Papers, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10488724)
 
