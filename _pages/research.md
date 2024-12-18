@@ -8,8 +8,10 @@ My research is in data management systems, machine learning, and applications. M
 The latest publications are available at my [Google Scholar profile](https://scholar.google.com/citations?user=SQsBhcwAAAAJ&hl=en&oi=ao).
 
 ## Thesis
-EPFL, 2024, *Efficient Approximate Analytics via Adaptive Context-Conscious Query Processing* [Link](https://infoscience.epfl.ch/entities/publication/b8ce973a-6b95-403c-be17-c84331c41b77)
+EPFL, 2024, *Efficient Approximate Analytics via Adaptive Context-Conscious Query Processing*. [Link](https://infoscience.epfl.ch/entities/publication/b8ce973a-6b95-403c-be17-c84331c41b77)
+
 Advisor: Prof. Anastasia Ailamaki
+
 Committee: Prof. Anne-Marie Kermarrec, Prof. Carsten Binnig, Dr. Justin Levandoski
 
 ## Publications 
