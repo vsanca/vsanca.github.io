@@ -5,7 +5,7 @@ author_profile: true
 classes: wide
 ---
 
-I am happy to announce that I joined Oracle at Redwood Shores as a Senior Member of Technical Staff on February 3! **(Website under re-construction, please find my latest research on Google Scholar and updates on Linkedin)**
+I am happy to announce that I joined Oracle at Redwood Shores as a Senior Member of Technical Staff on February 3! **(Website under re-construction, please find my latest research on [Google Scholar](https://scholar.google.com/citations?user=SQsBhcwAAAAJ&hl=en) and updates on [LinkedIn](https://ch.linkedin.com/in/viktor-sanca))**
 
 I obtained my PhD from [Data-Intensive Applications and Systems (DIAS) lab](dias.epfl.ch) at [Doctoral School for Computer and Communication Sciences at EPFL](https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/), advised by [Professor Anastasia Ailamaki](https://people.epfl.ch/anastasia.ailamaki?lang=en).
 {: .text-justify}
