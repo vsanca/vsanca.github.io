@@ -19,7 +19,7 @@ tagline: Personal Website
 url: https://www.viktorsanca.com
 
 repository: vsanca/vsanca.github.io
-email: viktor.sanca@epfl.ch
+email: viktor@viktorsanca.com
 description: >- # this means to ignore newlines until "baseurl:"
   Viktor Sanca's personal website.
 github_username: vsanca
@@ -63,19 +63,19 @@ plugins:
 author:
   name   : "Viktor Sanca"
   avatar : "/assets/images/sanca-photo.jpeg"
-  bio    : "PhD candidate at EPFL. <br />
-    Interested in systems, databases, and ML. Especially how to make them efficient and fast on modern hardware."
-  location: "Lausanne, Switzerland :switzerland:"
+  bio    : >
+    Senior Member of Technical Staff, Oracle | EPFL PhD at
+    <a href="https://dias.epfl.ch">DIAS</a>.<br />
+    Interested in systems, databases, and ML. Especially how to make them efficient
+    and fast on modern hardware.
+  location: "Menlo Park, CA, USA :us:"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://viktorsanca.com"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:viktor.sanca@epfl.ch"
-    - label: "EPFL page"
-      icon: "fa fa-fw fa-university"
-      url: "https://people.epfl.ch/viktor.sanca/?lang=en"
+      url: "mailto:viktor@viktorsanca.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/vsanca"
@@ -96,7 +96,7 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:viktor.sanca@epfl.ch"
+      url: "mailto:viktor@viktorsanca.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/viktor-sanca"
