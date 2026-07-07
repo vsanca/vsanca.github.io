@@ -3,11 +3,20 @@ title: Bio
 permalink: /bio/
 ---
 
-You can download my most recent [CV by clicking here](/assets/files/Viktor_Sanca_cv.pdf).
-*Last updated in December 2023* 
+You can download my most recent [CV by clicking here](/assets/files/Viktor_Sanca_CV_0726.pdf).
+*Last updated in June 2026* 
 {: .text-justify}
 
 # Awards
+## **2026** 
+### IEEE ICDE Best Paper Runner-up Award
+*Awarded by IEEE ICDE for 2026 Paper A-Scan*
+{: .text-justify}
+
+## **2024** 
+### ACM SIGMOD Research Highlight Award
+*Awarded by ACM SIGMOD for 2023 Paper LAQy*
+{: .text-justify}
 
 ## **2023** 
 ### Distinguished service award
